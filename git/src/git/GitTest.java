@@ -10,6 +10,10 @@ public class GitTest {
 		System.out.println("Wiele bólu mam, wiele ninawiœci te¿.");
 		System.out.println("Wiele bólu mam, wiele ninawiœci te¿.");
 		System.out.println("Wiele bólu mam, wiele ninawiœci te¿.");
+		
+		System.out.println("Git git git");
+		System.out.println("Git git git");
+		System.out.println("Git gitsd git");
 	}
 
 }
