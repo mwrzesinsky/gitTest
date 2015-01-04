@@ -8,6 +8,8 @@ public class GitTest {
 		System.out.println("Git gitsd git");
 
 		System.out.println("Wiele bólu mam, wiele ninawiœci te¿.");
+		System.out.println("Wiele bólu mam, wiele ninawiœci te¿.");
+		System.out.println("Wiele bólu mam, wiele ninawiœci te¿.");
 	}
 
 }
